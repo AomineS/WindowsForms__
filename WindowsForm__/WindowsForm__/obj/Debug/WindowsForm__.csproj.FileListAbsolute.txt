@@ -1,0 +1,22 @@
+C:\Users\xmido\source\repos\WindowsForm__\WindowsForm__\bin\Debug\WindowsForm__.exe.config
+C:\Users\xmido\source\repos\WindowsForm__\WindowsForm__\bin\Debug\WindowsForm__.exe
+C:\Users\xmido\source\repos\WindowsForm__\WindowsForm__\bin\Debug\WindowsForm__.pdb
+C:\Users\xmido\source\repos\WindowsForm__\WindowsForm__\obj\Debug\WindowsForm__.csproj.AssemblyReference.cache
+C:\Users\xmido\source\repos\WindowsForm__\WindowsForm__\obj\Debug\WindowsForm__.csproj.SuggestedBindingRedirects.cache
+C:\Users\xmido\source\repos\WindowsForm__\WindowsForm__\obj\Debug\WindowsForm__.Form1.resources
+C:\Users\xmido\source\repos\WindowsForm__\WindowsForm__\obj\Debug\WindowsForm__.Properties.Resources.resources
+C:\Users\xmido\source\repos\WindowsForm__\WindowsForm__\obj\Debug\WindowsForm__.csproj.GenerateResource.cache
+C:\Users\xmido\source\repos\WindowsForm__\WindowsForm__\obj\Debug\WindowsForm__.csproj.CoreCompileInputs.cache
+C:\Users\xmido\source\repos\WindowsForm__\WindowsForm__\obj\Debug\WindowsForm__.exe
+C:\Users\xmido\source\repos\WindowsForm__\WindowsForm__\obj\Debug\WindowsForm__.pdb
+C:\Users\xmido\OneDrive\Рабочий стол\WindowsForm__\WindowsForm__\bin\Debug\WindowsForm__.exe.config
+C:\Users\xmido\OneDrive\Рабочий стол\WindowsForm__\WindowsForm__\bin\Debug\WindowsForm__.exe
+C:\Users\xmido\OneDrive\Рабочий стол\WindowsForm__\WindowsForm__\bin\Debug\WindowsForm__.pdb
+C:\Users\xmido\OneDrive\Рабочий стол\WindowsForm__\WindowsForm__\obj\Debug\WindowsForm__.csproj.AssemblyReference.cache
+C:\Users\xmido\OneDrive\Рабочий стол\WindowsForm__\WindowsForm__\obj\Debug\WindowsForm__.csproj.SuggestedBindingRedirects.cache
+C:\Users\xmido\OneDrive\Рабочий стол\WindowsForm__\WindowsForm__\obj\Debug\WindowsForm__.Form1.resources
+C:\Users\xmido\OneDrive\Рабочий стол\WindowsForm__\WindowsForm__\obj\Debug\WindowsForm__.Properties.Resources.resources
+C:\Users\xmido\OneDrive\Рабочий стол\WindowsForm__\WindowsForm__\obj\Debug\WindowsForm__.csproj.GenerateResource.cache
+C:\Users\xmido\OneDrive\Рабочий стол\WindowsForm__\WindowsForm__\obj\Debug\WindowsForm__.csproj.CoreCompileInputs.cache
+C:\Users\xmido\OneDrive\Рабочий стол\WindowsForm__\WindowsForm__\obj\Debug\WindowsForm__.exe
+C:\Users\xmido\OneDrive\Рабочий стол\WindowsForm__\WindowsForm__\obj\Debug\WindowsForm__.pdb
